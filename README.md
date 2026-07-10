@@ -40,6 +40,51 @@ This archive includes:
 
 ---
 
+# 🎥 Gameplay Video
+
+Watch the complete gameplay demonstration here:
+
+**▶ Gameplay Video :** *( https://github.com/Anuj-PatilGhare/Unreal_Obstacle_Assault/blob/6b307092bc1cb0077d2c920b25237a5153ff3ddb/GamePlay/GamePlayVideo.mp4 )*
+
+---
+
+🌍 Environment Design
+
+The game environment was created using a collection of high-quality assets from the Fab Marketplace, allowing me to build a visually appealing and immersive level while focusing on gameplay programming and level design.
+
+The environment includes:
+
+* 🏞️ Detailed landscape and environment assets
+* 🧱 Platforms and structural elements
+* 🌿 Decorative props and environmental objects
+* 💡 Dynamic lighting for improved visual quality
+* 🎨 Materials and textures to enhance the overall scene
+
+The level was designed to provide a smooth progression in difficulty while encouraging exploration and precise movement.
+
+---
+
+# 📸 Screenshots
+Screenshot 1 :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_Obstacle_Assault/blob/8e78bfad9ef9c73ed9320291e4d662ab39c2dae1/GamePlay/Script_Testing.png)
+
+Screenshot 2 :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_Obstacle_Assault/blob/8e78bfad9ef9c73ed9320291e4d662ab39c2dae1/GamePlay/GameScreenShot2.png)
+
+Screenshot 3 :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_Obstacle_Assault/blob/8e78bfad9ef9c73ed9320291e4d662ab39c2dae1/GamePlay/GameScreenShot3.png)
+
+Screenshot 4 :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_Obstacle_Assault/blob/8e78bfad9ef9c73ed9320291e4d662ab39c2dae1/GamePlay/GameScreenShot4.png)
+
+Screenshot 5 :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_Obstacle_Assault/blob/8e78bfad9ef9c73ed9320291e4d662ab39c2dae1/GamePlay/GameScrenShot5.png)
+
+Screenshot 6 :
+![Description](https://github.com/Anuj-PatilGhare/Unreal_Obstacle_Assault/blob/8e78bfad9ef9c73ed9320291e4d662ab39c2dae1/GamePlay/GameScreenShot6.png)
+
+---
+
 ## ✨ Key Features
 
 * 🎮 Smooth player movement
@@ -49,7 +94,6 @@ This archive includes:
 * 💥 Collision detection and gameplay interactions
 * 🧩 Custom C++ Actor Components
 * 📦 Modular and reusable gameplay systems
-* 🌍 Interactive level design
 * 🚀 Fully playable packaged game
 
 ---
@@ -58,6 +102,7 @@ This archive includes:
 
 * Unreal Engine 5
 * C++
+* Assets 
 * Visual Studio
 * Git & GitHub
 
@@ -85,7 +130,6 @@ This archive includes:
 * Object-Oriented Programming (OOP)
 * Constructors
 * Functions
-* Pointers
 * Header & Source Files
 * Unreal Reflection System (`UCLASS`, `UPROPERTY`, `UFUNCTION`)
 * Code Organization
@@ -106,38 +150,6 @@ This project helped me gain hands-on experience with:
 * Structuring a complete game project from development to packaging
 
 ---
-
-# 📸 Screenshots
-Screenshot 1 :
-![Description](https://github.com/Anuj-PatilGhare/Unreal_Obstacle_Assault/blob/8e78bfad9ef9c73ed9320291e4d662ab39c2dae1/GamePlay/Script_Testing.png)
-
-Screenshot 2 :
-![Description](https://github.com/Anuj-PatilGhare/Unreal_Obstacle_Assault/blob/8e78bfad9ef9c73ed9320291e4d662ab39c2dae1/GamePlay/GameScreenShot2.png)
-
-Screenshot 3 :
-![Description](https://github.com/Anuj-PatilGhare/Unreal_Obstacle_Assault/blob/8e78bfad9ef9c73ed9320291e4d662ab39c2dae1/GamePlay/GameScreenShot3.png)
-
-Screenshot 4 :
-![Description](https://github.com/Anuj-PatilGhare/Unreal_Obstacle_Assault/blob/8e78bfad9ef9c73ed9320291e4d662ab39c2dae1/GamePlay/GameScreenShot4.png)
-
-Screenshot 5 :
-![Description](https://github.com/Anuj-PatilGhare/Unreal_Obstacle_Assault/blob/8e78bfad9ef9c73ed9320291e4d662ab39c2dae1/GamePlay/GameScrenShot5.png)
-
-Screenshot 6 :
-![Description](https://github.com/Anuj-PatilGhare/Unreal_Obstacle_Assault/blob/8e78bfad9ef9c73ed9320291e4d662ab39c2dae1/GamePlay/GameScreenShot6.png)
-
-
----
-
-# 🎥 Gameplay Video
-
-Watch the complete gameplay demonstration here:
-
-**▶ Gameplay Video :** *( https://github.com/Anuj-PatilGhare/Unreal_Obstacle_Assault/blob/6b307092bc1cb0077d2c920b25237a5153ff3ddb/GamePlay/GamePlayVideo.mp4 )*
-
----
-
-
 
 ## 🚀 How to Run
 
