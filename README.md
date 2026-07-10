@@ -23,6 +23,8 @@ The original Unreal Engine project contains **approximately 3.5 GB of assets**, 
 
 For anyone who would like to explore or run the complete project, I have uploaded the full Unreal Engine project separately.
 
+---
+
 ### 📦 Complete Project Download
 
 The complete project (including all assets and content) can be downloaded here:
