@@ -124,19 +124,6 @@ Screenshot 6 :
 
 ---
 
-## 💻 C++ Concepts Practiced
-
-* Classes & Objects
-* Object-Oriented Programming (OOP)
-* Constructors
-* Functions
-* Header & Source Files
-* Unreal Reflection System (`UCLASS`, `UPROPERTY`, `UFUNCTION`)
-* Code Organization
-* Reusable Components
-
----
-
 ## 🎯 What I Learned
 
 This project helped me gain hands-on experience with:
@@ -159,18 +146,6 @@ This project helped me gain hands-on experience with:
 4. Build the project if prompted.
 5. Click **Play** to experience the game.
 
----
-
-## 📈 Skills Demonstrated
-
-* Unreal Engine 5 Development
-* Gameplay Programming
-* C++ Development
-* Object-Oriented Programming
-* Collision Detection
-* Modular Game Architecture
-* Real-Time Systems
-* Version Control with GitHub
 
 ---
 
